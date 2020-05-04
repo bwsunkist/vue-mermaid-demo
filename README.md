@@ -2,6 +2,8 @@
 
 > The demo page of &#34;vue-mermaid&#34;
 
+[demo](https://raw.githubusercontent.com/wiki/bwsunkist/vue-mermaid-demo/images/demo.gif)
+
 ## Build Setup
 
 ```bash
